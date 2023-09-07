@@ -22,4 +22,4 @@ Bot setup:
 3.) Enjoy your free levels.
 4.) Once you are ready, tab back into visual studio and ctrl + c to end the program. If this is not working for some reason then you can close VS studio.
 
-P.S: The bot will get lost sometimes... so you will have to check on it every now and then. Enjoy !
+P.S: The bot will get lost sometimes... so you will have to check on it every now and then. Enjoy!
